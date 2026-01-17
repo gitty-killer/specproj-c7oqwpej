@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-c7oqwpej"",
-  ""goal"": ""dataset sampler for quota management"",
-  ""language"": ""python"",
-  ""template"": ""python-cli""
+    "name":  "specproj-c7oqwpej",
+    "goal":  "dataset sampler for quota management",
+    "language":  "python",
+    "template":  "python-cli"
 }
